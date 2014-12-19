@@ -1,3 +1,5 @@
+// Author: Gabriel Morcote
+
 Hash Set implementation:
 
 1. NumBuckets: The number of hash buckets used by the set
